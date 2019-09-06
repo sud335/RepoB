@@ -1,0 +1,3 @@
+[submodule "RepoA"]
+	path = RepoA
+	url = git@github.com:sud335/RepoA.git
